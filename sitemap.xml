@@ -4,7 +4,17 @@
   
   <url>
     <loc>https://bobbysdev.github.io/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bobbysdev.github.io/post/moved/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bobbysdev.github.io/post/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -29,11 +39,6 @@
   
   <url>
     <loc>https://bobbysdev.github.io/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bobbysdev.github.io/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,10 +119,6 @@
   
   <url>
     <loc>https://bobbysdev.github.io/tags/index/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bobbysdev.github.io/post/moved/</loc>
   </url>
   
 </urlset>
